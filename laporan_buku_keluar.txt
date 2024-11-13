@@ -1,0 +1,4 @@
+2|Python Basics|978-2345678901
+3|Data Structures|978-3456789012
+4|Effective Java|978-5678901234
+5|Java Programming|978-1234567890

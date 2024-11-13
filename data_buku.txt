@@ -1,0 +1,43 @@
+Java Programming|John Doe|978-1234567890|8
+Python Basics|Jane Smith|978-2345678901|7
+Data Structures|Alice Johnson|978-3456789012|11
+Algorithms Unlocked|Bob Brown|978-4567890123|8
+Effective Java|James Lee|978-5678901234|13
+Clean Code|Robert Martin|978-6789012345|14
+Head First Java|Kathy Sierra|978-7890123456|16
+Spring in Action|Craig Walls|978-8901234567|14
+Java Concurrency in Practice|Brian Goetz|978-9012345678|13
+Design Patterns|Erich Gamma|978-0123456789|17
+Java: The Complete Reference|Herbert Schildt|978-0234567890|16
+Core Java Volume I|Cay S. Horstmann|978-0345678901|14
+Java Performance|Charlie Hunt|978-0456789012|11
+Java Puzzlers|Joshua Bloch|978-0567890123|15
+Learning Python|Mark Lutz|978-0678901234|16
+Python Cookbook|David Beazley|978-1234567891|19
+JavaScript: The Good Parts|Douglas Crockford|978-2345678902|15
+You Don't Know JS|Kyle Simpson|978-3456789013|17
+C Programming Language|Brian Kernighan|978-4567890124|14
+The Pragmatic Programmer|Andrew Hunt|978-5678901235|19
+Introduction to Algorithms|Thomas H. Cormen|978-6789012346|13
+Effective Python|Brett Slatkin|978-8901234568|16
+Fluent Python|Luciano Ramalho|978-9012345679|18
+Deep Learning|Ian Goodfellow|978-0123456790|11
+Artificial Intelligence: A Modern Approach|Stuart Russell|978-0234567891|19
+Machine Learning Yearning|Andrew Ng|978-0345678902|19
+Refactoring|Martin Fowler|978-0567890124|18
+Code Complete|Steve McConnell|978-0678901235|22
+The Art of Computer Programming|Donald Knuth|978-0789012345|13
+Programming Pearls|Jon Bentley|978-1234098765|13
+The Mythical Man-Month|Frederick P. Brooks Jr.|978-3456098765|13
+The C++ Programming Language|Bjarne Stroustrup|978-4567098765|13
+The Clean Coder|Robert C. Martin|978-5678098765|17
+Modern Operating Systems|Andrew S. Tanenbaum|978-6789098765|11
+Computer Networks|Andrew S. Tanenbaum|978-7890098765|20
+Designing Data-Intensive Applications|Martin Kleppmann|978-8901098765|19
+Python for Data Analysis|Wes McKinney|978-9012098765|19
+Cracking the Coding Interview|Gayle Laakmann McDowell|978-0123098765|15
+Deep Learning with Python|Francois Chollet|978-0234098765|17
+Introduction to the Theory of Computation|Michael Sipser|978-0345098765|14
+Introduction to Machine Learning with Python|Andreas C. Müller, Sarah Guido|978-0456098765|16
+An Introduction to Statistical Learning|Gareth James, Daniela Witten|978-0678098765|14
+Java: How to Program|Paul Deitel, Harvey Deitel|978-0134743356|11

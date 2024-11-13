@@ -1,0 +1,5 @@
+1|Alvi Khoirunnisa|Java Programming|978-1234567890|7|49000.00|Sudah Bayar|Sudah Dikembalikan
+2|Riska Nur|Python Basics|978-2345678901|5|35000.00|Sudah Bayar|Sudah Dikembalikan
+3|Dina Intan|Data Structures|978-3456789012|3|21000.00|Sudah Bayar|Belum Dikembalikan
+4|Veyykh|Effective Java|978-5678901234|3|21000.00|Belum Bayar|Belum Dikembalikan
+5|Alvi|Java Programming|978-1234567890|3|21000.00|Sudah Bayar|Belum Dikembalikan
